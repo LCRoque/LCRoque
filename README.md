@@ -1,4 +1,4 @@
-### Hello there,  :wave:
+### Olá,  :wave:
 
 ### Sobre
 :mortar_board: Ciência da Computação ([SPTech](https://www.sptech.school/))
