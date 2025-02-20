@@ -1,4 +1,4 @@
-### Olá,  :wave:
+### Olá,  :wave:. Me chamo Lucas Coltre Roque, tenho 19 anos e seja bem-vindo ao meu perfil do GitHub!
 
 ### Sobre
 :mortar_board: Ciência da Computação ([SPTech](https://www.sptech.school/))
